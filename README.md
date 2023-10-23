@@ -20,5 +20,22 @@ The dataset contains 3 tables, in CSV format. The "Greenhouse Gas Emissions" tab
 
 ![Scope 3 Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/ee45247f-e7e3-44de-9c8d-c5e03b6d17f0)
 
-We can see down trend in Scope wise Emissions by Fiscal year. In Scope
-	  2 Emission is 0. That is good sign toward achieving the goal.
+- We can see down trend in Scope wise Emissions by Fiscal year. In Scope 2 Emission is 0. That is good sign toward achieving the goal.
+
+![Carbon footprint by release year and product](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/ae87ac0c-14c2-4bce-9283-c22fe165a65a)
+
+- We can evidently see the continuous down trend in carbon footprint by Release year and Product from 2019.
+- Apple most effective product toward their goal to make "Product carbon neutral by 2030" is iPhone 6s.
+
+  ![Revenue and Employees by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/3678bb48-11a3-43ad-9f36-20f6edc7f269)
+
+![Market cap by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/34ef171f-1519-43da-96a1-3db687f40890)
+
+We can see Year wise Revenue and Market cap growth and it's a good sign for the company.
+
+![Corporate Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/c5f60fbf-9e6c-4a12-9e7e-5e4fb28d72ae)
+
+![Product life cycle Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/57967ab9-68de-43ec-a264-e835a18e652d)
+
+We can see continuous downtrend in Year wise product life cycle Emission that will help company towards their goal.
+
