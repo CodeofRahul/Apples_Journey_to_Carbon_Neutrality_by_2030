@@ -13,3 +13,12 @@ The dataset contains 3 tables, in CSV format. The "Greenhouse Gas Emissions" tab
 **Tool :- Power Bi, Power query**
 
 ## Analysis and Findings
+
+![Scope 1 Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/10b74da0-849f-484c-8b2c-73ed9a4bfca0)
+
+![Scope 2 Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/49747782-f036-423b-8c11-a62c05e0e1d1)
+
+![Scope 3 Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/ee45247f-e7e3-44de-9c8d-c5e03b6d17f0)
+
+We can see down trend in Scope wise Emissions by Fiscal year. In Scope
+	  2 Emission is 0. That is good sign toward achieving the goal.
