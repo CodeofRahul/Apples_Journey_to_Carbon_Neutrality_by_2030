@@ -39,3 +39,8 @@ We can see Year wise Revenue and Market cap growth and it's a good sign for the 
 
 We can see continuous downtrend in Year wise product life cycle Emission that will help company towards their goal.
 
+## Suggestions
+
+- Company can reduce use of fossil fuels as much as possible.
+
+- Company can Educate their employees, customers and partners on the importance of carbon neutrality.
