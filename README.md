@@ -31,16 +31,19 @@ The dataset contains 3 tables, in CSV format. The "Greenhouse Gas Emissions" tab
 
 ![Market cap by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/34ef171f-1519-43da-96a1-3db687f40890)
 
-We can see Year wise Revenue and Market cap growth and it's a good sign for the company.
+- We can see Year wise Revenue and Market cap growth and it's a good sign for the company.
 
 ![Corporate Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/c5f60fbf-9e6c-4a12-9e7e-5e4fb28d72ae)
 
 ![Product life cycle Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/57967ab9-68de-43ec-a264-e835a18e652d)
 
-We can see continuous downtrend in Year wise product life cycle Emission that will help company towards their goal.
+- We can see continuous downtrend in Year wise product life cycle Emission that will help company towards their goal.
 
 ## Suggestions
 
 - Company can reduce use of fossil fuels as much as possible.
 
 - Company can Educate their employees, customers and partners on the importance of carbon neutrality.
+
+
+**Dashboard Link :-** https://www.novypro.com/project/apples-journey-to-carbon-neutrality-by-2030
