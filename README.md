@@ -17,9 +17,11 @@ The dataset contains 3 tables, in CSV format. The "Greenhouse Gas Emissions" tab
 ![Scope 1 Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/3f97e995-f8b7-41dc-a98c-ce11a636e4d5)
 
 
-![Scope 2 Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/49747782-f036-423b-8c11-a62c05e0e1d1)
+![Scope 2 Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/d5899dd9-f271-4c8b-9846-295cd42b19bb)
 
-![Scope 3 Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/ee45247f-e7e3-44de-9c8d-c5e03b6d17f0)
+
+![Scope 3 Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/196c5264-e11f-43b1-a722-cd0f9b5d8161)
+
 
 - We can see down trend in Scope wise Emissions by Fiscal year. In Scope 2 Emission is 0. That is good sign toward achieving the goal.
 
