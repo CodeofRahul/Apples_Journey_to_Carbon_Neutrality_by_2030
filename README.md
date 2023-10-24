@@ -39,9 +39,11 @@ Above both Line graph shows the growth in Revenue and Market capitalization by y
 
 ![Corporate Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/c5f60fbf-9e6c-4a12-9e7e-5e4fb28d72ae)
 
+In above "Corporate Emission by fiscal year" Line graph can be seen continuosly down trend from 2019 in corporate emission but after 2021 it has started increasing.
+
 ![Product life cycle Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/57967ab9-68de-43ec-a264-e835a18e652d)
 
-- We can see continuous downtrend in Year wise product life cycle Emission that will help company towards their goal.
+"Product life cycle Emission by Fiscal year" graph shows continuos improvement of company in decreasing emissions of product life cycle.
 
 ## Suggestions
 
@@ -50,4 +52,4 @@ Above both Line graph shows the growth in Revenue and Market capitalization by y
 - Company can Educate their employees, customers and partners on the importance of carbon neutrality.
 
 
-**Dashboard Link :-** https://www.novypro.com/project/apples-journey-to-carbon-neutrality-by-2030
+**Dashboard Link :-** https://www.novypro.com/project/apples-journey-to-carbon-neutrality-by-2030-power-bi
