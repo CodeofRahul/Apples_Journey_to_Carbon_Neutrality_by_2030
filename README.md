@@ -16,10 +16,11 @@ The dataset contains 3 tables, in CSV format. The "Greenhouse Gas Emissions" tab
 
 ![Scope 1 Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/3f97e995-f8b7-41dc-a98c-ce11a636e4d5)
 
-Those greenhouse gas emissions caused directly by the company itself (e.g. by burning fossil fuels) are referred to as Scope 1. We can clearly see that line chart is showing the increase in Scope 1 emissions by year on year.
+"Those greenhouse gas emissions caused directly by the company itself (e.g. by burning fossil fuels) are referred to as Scope 1." We can clearly see that line chart is showing the increase in Scope 1 emissions by year on year.
 
 ![Scope 2 Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/d5899dd9-f271-4c8b-9846-295cd42b19bb)
 
+"The emissions caused indirectly by an organization, e.g. by purchasing secondary energy sources (e.g. electricity, heat, cooling or steam) and the associated emissions are called Scope 2." Line graph shows Scope 2 emission zero in 2019-2020 period but after this period again it has been increasing. it shows increase in use of secondary energy sources.
 
 ![Scope 3 Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/196c5264-e11f-43b1-a722-cd0f9b5d8161)
 
