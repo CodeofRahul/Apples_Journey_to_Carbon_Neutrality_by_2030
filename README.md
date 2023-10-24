@@ -25,7 +25,7 @@ The dataset contains 3 tables, in CSV format. The "Greenhouse Gas Emissions" tab
 ![Scope 3 Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/196c5264-e11f-43b1-a722-cd0f9b5d8161)
 
 
-- We can see down trend in Scope wise Emissions by Fiscal year. In Scope 2 Emission is 0. That is good sign toward achieving the goal.
+"Scope 3 emission sources include emissions from suppliers and product users. Transportation of goods, and other indirect emissions are also part of this scope." Line graph shows year by year decrease in scope 3.
 
 ![Carbon footprint by release year and product](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/ae87ac0c-14c2-4bce-9283-c22fe165a65a)
 
