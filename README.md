@@ -14,7 +14,8 @@ The dataset contains 3 tables, in CSV format. The "Greenhouse Gas Emissions" tab
 
 ## Analysis and Findings
 
-![Scope 1 Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/10b74da0-849f-484c-8b2c-73ed9a4bfca0)
+![Scope 1 Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/3f97e995-f8b7-41dc-a98c-ce11a636e4d5)
+
 
 ![Scope 2 Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/49747782-f036-423b-8c11-a62c05e0e1d1)
 
