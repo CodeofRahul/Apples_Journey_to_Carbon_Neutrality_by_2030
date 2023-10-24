@@ -35,7 +35,7 @@ In this column chart, we can see initially product and year by year growth in Ca
 
 ![Market cap by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/34ef171f-1519-43da-96a1-3db687f40890)
 
-- We can see Year wise Revenue and Market cap growth and it's a good sign for the company.
+Above both Line graph shows the growth in Revenue and Market capitalization by year on year. In this report can be seen year on year decrease in emissions and carbon footprint and increase in revenue and market cap. it shows the strong business model of Apple company.
 
 ![Corporate Emission by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/c5f60fbf-9e6c-4a12-9e7e-5e4fb28d72ae)
 
