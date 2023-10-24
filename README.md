@@ -29,8 +29,7 @@ The dataset contains 3 tables, in CSV format. The "Greenhouse Gas Emissions" tab
 
 ![Carbon footprint by release year and product](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/ae87ac0c-14c2-4bce-9283-c22fe165a65a)
 
-- We can evidently see the continuous down trend in carbon footprint by Release year and Product from 2019.
-- Apple most effective product toward their goal to make "Product carbon neutral by 2030" is iPhone 6s.
+In this column chart, we can see initially product and year by year growth in Carbon Footprint but after 2019 can be seen a significant down trend in Carbon Footprint. In all this process Apple's most effective product so far has been the Iphone 6s and 2019-2023 time period has been the most important and most effective time period so far in terms of carbon footprint.
 
   ![Revenue and Employees by fiscal year](https://github.com/CodeofRahul/Apples_Journey_to_Carbon_Neutrality_by_2030/assets/143285125/3678bb48-11a3-43ad-9f36-20f6edc7f269)
 
